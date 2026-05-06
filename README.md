@@ -69,12 +69,15 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/M1sael">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=M1sael&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=714B67&icon_color=714B67&count_private=false" />
-</a>
-<a href="https://github.com/M1sael">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1sael&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=714B67" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M1sael&theme=tokyonight" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=M1sael&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=M1sael&theme=tokyonight" height="160em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=M1sael&theme=tokyonight" height="160em"/>
 
 </div>
 
@@ -87,7 +90,6 @@ me.say_hi()
 ---
 
 ### 🐍 Contribution Snake
-
 
 <div align="center">
 
