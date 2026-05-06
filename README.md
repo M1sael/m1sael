@@ -88,7 +88,6 @@ me.say_hi()
 
 ### 🐍 Contribution Snake
 
-> ⚙️ *Requires the [snake GitHub Action](.github/workflows/snake.yml) to be configured.*
 
 <div align="center">
 
