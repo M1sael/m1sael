@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=714B67&height=130&section=header&text=M1sael&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Python%20Developer%20%7C%20Odoo%20Specialist&descAlignY=62&descAlign=50" />
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=714B67&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;Odoo+ERP+Specialist+%F0%9F%94%A7;Backend+%26+Business+Logic+Builder;C%23+%7C+Lua+%7C+JS+when+needed+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+building...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=714B67&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Python+Developer+%F0%9F%90%8D;Odoo+ERP+Specialist+%F0%9F%94%A7;Backend+%26+Business+Logic+Builder;C%23+%7C+Lua+%7C+JS+when+needed+%E2%9A%99%EF%B8%8F;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,6 +16,7 @@
 class Developer:
     def __init__(self):
         self.name        = "M1sael"
+        self.role        = "Software Engineer"
         self.focus       = ["Python", "Odoo ERP", "Backend Development"]
         self.languages   = ["Python", "C#", "Lua", "JavaScript"]
         self.erp_stack   = ["Odoo", "OWL", "QWeb", "XML Views", "PostgreSQL"]
