@@ -16,7 +16,7 @@ jobs:
         with:
           github_user_name: M1sael
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=ffdd54&color_dots=#0d1117,#3d1f36,#5c2d52,#8b3a7a,#714B67
+            dist/github-contribution-grid-snake.svg?color_snake=ffdd54&color_dots=%230d1117,%233d1f36,%235c2d52,%238b3a7a,%23714B67
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ffdd54
 
       - uses: crazy-max/ghaction-github-pages@v4
